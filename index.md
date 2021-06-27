@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to JSA Axie Dojo
+The first business venture built by Jeshan Capital to help people who are in need of extra income this time of pandemic.
 
-You can use the [editor on GitHub](https://github.com/jrtibayan/jsa-axie-dojo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Guide for New Scholars
+### What to do with your energy
+|  Goal | Name | 60%  |
+| ------------- | ------------- | ------------- |
+| 1  | Your Number1 goal is to make your daily grind easier. The further you can get on adventure the faster you can finish the daily 100 SLP from adventure. Use all your energy for adventure till you can easily do ruin10 or ruin15. When you run out of energy, you can now do arena to get 5 wins and get the daily quest. | Aug15 |
+| 2  | When you can easily do ruin 10 or 15 to get 100 SLP from adventure you can now allocate a few energy for adventure and the rest will go to arena. This will help you gain extra SLP aside from the 150 you used to get before. | Aug15  |
+| 3  | When you maxed your level on adventure you will be able to put 100% of your energy on arena. Make sure to practice a lot when you have no more energy so that you will improve faster and have better chance of winning when you play using energy.  | Sept15  |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quota for the Scholars
+2250 SLP per 15 Days
 
-### Markdown
+## Our Scholars
+| No  | Name | 60%  |
+| ------------- | ------------- | ------------- |
+| 001  | Jeric  | Aug15 |
+| 002  | Edil | Aug15  |
+| 003  | Emy  | Sept15  |
+| 004  | Lloyd  | Sept15  |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrtibayan/jsa-axie-dojo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
