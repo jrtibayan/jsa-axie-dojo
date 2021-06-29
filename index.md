@@ -28,23 +28,25 @@ The purpose of the scholarship is to fund these people. We invest our money and 
 10% will go to investor / Axie Dojo  
 30% will go to the scholarship fund for new scholars  
 (We are also looking into funding a pool to be used as prize on tournaments for the scholars)
-  
-## Guide for New Scholars
-### What to do with your energy
-|  Goal | Name |
-| ------------- | ------------- |
-| 1  | Your Number1 goal is to make your daily grind easier. The further you can get on adventure the faster you can finish the daily 100 SLP from adventure. Use all your energy for adventure till you can easily do ruin10 or ruin15. When you run out of energy, you can now do arena to get 5 wins and get the daily quest. |
-| 2  | When you can easily do ruin 10 or 15 to get 100 SLP from adventure you can now allocate a few energy for adventure and the rest will go to arena. This will help you gain extra SLP aside from the 150 you used to get before. |
-| 3  | When you maxed your level on adventure you will be able to put 100% of your energy on arena. Make sure to practice a lot when you have no more energy so that you will improve faster and have better chance of winning when you play using energy.  |
+
+## When is the earned SLP claimed?
+The game lets you claim 15 days after the last time you claimed your SLP.  
+But for JSA Axie Dojo we schedule the date and time the earned SLP will be claimed.
 
 ## Quota for the Scholars
-2250 SLP per 15 Days
+Each sholar is expected to earn at least 150 SLP per day.
+The quota would be calculated as seen below:  
+  
+Quota = [No. of days from last claim to next claim] x 150
+
+## Scholarship Terms and Conditions
+Each scholar is expected to follow the terms and conditions set by JSA Axie Dojo.
 
 ## Our Scholars
-| No  | Name | 60%  |
+| No  | Name | Started  |
 | ------------- | ------------- | ------------- |
-| 001  | Jeric  | Aug-- |
-| 002  | Edil | Aug--  |
-| 003  | Emy  | Sept--  |
-| 004  | Lloyd  | Sept--  |
+| 001  | Jeric  | June 2021 |
+| 002  | Edil | June 2021 |
+| 003  | Emy  | July 2021 |
+| 004  | Lloyd  | July 2021 |
 
