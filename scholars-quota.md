@@ -11,11 +11,13 @@ Please see table below to check your target SLP to be claimed
 
 | No  | Name | Started  | July 1-15 Quota |
 | ------------- | ------------- | ------------- | ------------- |
-| 001  | Jeric  | June 2021 | ---- SLP |
+| 001  | Sheila  | June 2021 | ---- SLP |
 | 002  | Edil | June 2021 | 2655 SLP |
-| 003  | Emy  | July 2021 | 2473 SLP |
-| 004  | Lloyd  | July 2021 | 2751 SLP |
-| 005  | Sheila  | July 2021 | ---- SLP |
+| 003  | Lovely  | July 2021 | 2473 SLP |
+| 004  | Lloyd | July 2021 | 2751 SLP |
+| 005  | Kitt | July 2021 | ---- SLP |
+| 006  | Doc T | July 2021 | ---- SLP |
+| 007  | Jeric | July 2021 | ---- SLP |
 
 ## When is the next scheduled claiming of SLP?
 July 16, 2021  
@@ -24,8 +26,11 @@ July 16, 2021
 ## Scholars Record
 | Name  | June | July  |
 | ------------- | ------------- | ------------- |
-| Jeric  | O  | Ongoing |
+| Sheila  | O  | Ongoing |
 | Edil  | O | Ongoing |
-| Emy  | NA  | Ongoing |
+| Lovely  | NA  | Ongoing |
 | Lloyd  | NA  | Ongoing |
-| Sheila  | NA  | NA |
+| Kitt  | NA  | NA |
+| Doc T | NA  | NA |
+| Jeric | NA  | NA |
+  
