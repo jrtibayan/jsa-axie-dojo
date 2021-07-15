@@ -9,7 +9,7 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Started  | July 1-15 Quota | ------------- |
+| No  | Name | Started  | July 1-15 Quota | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 001  | Sheila  | June 2021 | ---- SLP | ------------- |
 | 002  | Edil | June 2021 | 2655 SLP | 3021 OK |
