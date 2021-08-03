@@ -9,36 +9,50 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | July 16-30 Quota | Status | 07/31 - 08/14 Quota |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001  | Sheila  | June 2021 | 2250 SLP | OK | 2250 SLP |
+| No  | Name | Joined | 07/31 - 08/14 Quota |
+| ------------- | ------------- | ------------- | ------------- |
+| 001  | Sheila  | June 2021 | 2250 SLP |
 | 002  | Edil | June 2021 | 2250 SLP | OK | 2250 SLP |
-| 003  | Lovely  | July 2021 | 2250 SLP | ------------- | 2250 SLP |
-| 004  | Lloyd | July 2021 | 2250 SLP | ------------- | 2250 SLP |
-| 005  | Kitt | July 2021 | 3109 SLP | ------------- | 2250 SLP |
-| 006  | Tyrone | Aug 2021 | - | ------------- | 2850 SLP |
-| 007  | Jeric | July 2021 | 2250 SLP | ------------- | 2250 SLP |
-| 008  | Cedrick | July 2021 | 1754 SLP | ------------- | 2250 SLP |
-| 009  | Rowel | Aug 2021 | - | ------------- | 2700 SLP |
-| 010  | Trey | Aug 2021 | - | ------------- | 2400 SLP |
-| 3  | Yvone | Aug 2021 | - | ------------- | ???? SLP |
-| 4  | Kikay | Aug 2021 | - | ------------- | 2700 SLP |
-| 5  | Joel | Aug 2021 | - | ------------- | 2550 SLP |
+| 003  | Lovely  | July 2021 | 2250 SLP |
+| 004  | Lloyd | July 2021 | 2250 SLP |
+| 005  | Kitt | July 2021 | 2250 SLP |
+| 006  | Tyrone | Aug 2021 | 2250 SLP |
+| 007  | Jeric | July 2021 | 2250 SLP |
+| 008  | Cedrick | July 2021 | 2250 SLP |
+| 009  | Rowel | Aug 2021 | 2700 SLP |
+| 010  | Trey | Aug 2021 | 2550 SLP |
+  
+Quota for JKL scholars
+| No  | Name | Joined | 07/31 - 08/13 Quota |
+| ------------- | ------------- | ------------- | ------------- |
+| 3  | Yvone | Aug 2021 | 2100 SLP |
+| 4  | Kikay | Aug 2021 | 2400 SLP |
+| 5  | Joel | Aug 2021 | 2400 SLP |
+| 6  | Roro | Aug 2021 | 2250 SLP |
+| 7  | KC | Aug 2021 | 2100 SLP |
 
 
 ## When is the next scheduled claiming of SLP?
-July 31, 2021  
+15 days of gameplay after the last claim date.
+August 15, 2021  
 7:00AM - 8:00AM
+  
+For JKL scholars  
+August 13, 2021  
+Time: ???  
+Please finish your daily quota before 6PM.
 
 ## Scholars Record
-| Name  | 06 | 07/15  | 07/30  |
-| ------------- | ------------- | ------------- | ------------- |
-| Sheila  | O  | O | Ongoing |
-| Edil  | O | O | Ongoing |
-| Lovely  | NA  | X | Ongoing |
-| Lloyd  | NA  | X | Ongoing |
-| Kitt  | NA  | NA | Ongoing |
-| Tyrone | NA  | NA | Ongoing |
-| Jeric | NA  | NA | Ongoing |
-| Cedrick | NA  | NA | Ongoing |
+| Name  | 06 | 07/15  | 07/30  | 08/14  |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Sheila  | O  | O  | O | Ongoing |
+| Edil  | O | O  | O | Ongoing |
+| Lovely  | NA  | X | O  | Ongoing |
+| Lloyd  | NA  | X | O  | Ongoing |
+| Kitt  | NA  | NA | O  | Ongoing |
+| Tyrone | NA  | NA | NA  | Ongoing |
+| Jeric | NA  | NA | O  | Ongoing |
+| Cedrick | NA  | NA | X  | Ongoing |
+| Rowel | NA  | NA | NA  | Ongoing |
+| Trey | NA  | NA | NA  | Ongoing |
   
