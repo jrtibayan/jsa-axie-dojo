@@ -30,6 +30,9 @@ Quota for JKL scholars
 | 5  | Joel | Aug 2021 | 2400 SLP |
 | 6  | Roro | Aug 2021 | 2250 SLP |
 | 7  | KC | Aug 2021 | 2100 SLP |
+| -  | Scholars below day 1 Aug 4 | - | - |
+| 8  | Michelle | Aug 2021 | ---- SLP |
+| 9  | Marinakier | Aug 2021 | ---- SLP |
 
 
 ## When is the next scheduled claiming of SLP?
@@ -41,7 +44,7 @@ For JKL scholars
 August 13, 2021  
 Time: ???  
 Please finish your daily quota before 6PM.
-
+<!--
 ## Scholars Record
 | Name  | 06 | 07/15  | 07/30  | 08/14  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -56,3 +59,4 @@ Please finish your daily quota before 6PM.
 | Rowel | NA  | NA | NA  | Ongoing |
 | Trey | NA  | NA | NA  | Ongoing |
   
+-->
