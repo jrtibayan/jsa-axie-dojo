@@ -28,14 +28,14 @@ Please see table below to check your target SLP to be claimed
 Quota for JKL scholars
 | No  | Name | Joined | 07/31 - 08/13 Quota |
 | ------------- | ------------- | ------------- | ------------- |
-| 3  | Yvone | Aug 2021 | 2100 SLP |
-| 4  | Kikay | Aug 2021 | 2400 SLP |
-| 5  | Joel | Aug 2021 | 2400 SLP |
-| 6  | Roro | Aug 2021 | 2250 SLP |
-| 7  | KC | Aug 2021 | 2100 SLP |
+| 3  | Yvone | Aug 2021 | 1650 SLP |
+| 4  | Kikay | Aug 2021 | 1950 SLP |
+| 5  | Joel | Aug 2021 | 1950 SLP |
+| 6  | Roro | Aug 2021 | 1800 SLP |
+| 7  | KC | Aug 2021 | 1650 SLP |
 | -  | Scholars below day 1 Aug 4 | - | - |
-| 8  | Michelle | Aug 2021 | 2400 SLP Aug 19 |
-| 9  | Marinakier | Aug 2021 | 2400 SLP Aug 19 |
+| 8  | Michelle | Aug 2021 | 1950 SLP Aug 19 |
+| 9  | Marinakier | Aug 2021 | 1950 SLP Aug 19 |
 
 
 ## When is the next scheduled claiming of SLP?
