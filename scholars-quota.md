@@ -9,21 +9,21 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | 07/31 - 08/14 Quota | 07/15 - 08/29 Quota |
+| No  | Name | Joined | 07/31 - 08/14 Quota | 07/15 - 08/28 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001  | Sheila  | June 2021 | 1800 SLP | 15d SLP |
-| 002  | Edil | June 2021 | 1800 SLP | 15d SLP |
-| 003  | Lovely  | July 2021 | 1800 SLP | 15d SLP |
-| 004  | Lloyd | July 2021 | 1800 SLP | 15d SLP |
-| 005  | Kitt | July 2021 | 1800 SLP | 15d SLP |
-| 006  | Tyrone | Aug 2021 | 1800 SLP | 15d SLP |
-| 007  | Jeric | July 2021 | 1800 SLP | 15d SLP |
-| 008  | Cedrick | July 2021 | 1800 SLP | 15d SLP |
-| 009  | Rowel | Aug 2021 | 2250 SLP | 15d SLP |
-| 010  | Trey | Aug 2021 | 2100 SLP | 15d SLP |
-| 011  | Pamela | Aug 2021 | NA | 23d SLP |
-| 012  | Ryan | Aug 2021 | NA | 23d SLP |
-| 013  | Bryle | Aug 2021 | NA | 23d SLP |
+| 001  | Sheila  | June 2021 | 1800 SLP | 1400 SLP |
+| 002  | Edil | June 2021 | 1800 SLP | 1400 SLP |
+| 003  | Lovely  | July 2021 | 1800 SLP | 1400 SLP |
+| 004  | Lloyd | July 2021 | 1800 SLP | 1400 SLP |
+| 005  | Kitt | July 2021 | 1800 SLP | 1400 SLP |
+| 006  | Tyrone | Aug 2021 | 1800 SLP | 1400 SLP |
+| 007  | Jeric | July 2021 | 1800 SLP | 1400 SLP |
+| 008  | Cedrick | July 2021 | 1800 SLP | 1400 SLP |
+| 009  | Rowel | Aug 2021 | 2250 SLP | 1400 SLP |
+| 010  | Trey | Aug 2021 | 2100 SLP | 1400 SLP |
+| 011  | Pamela | Aug 2021 | NA | 2200 SLP |
+| 012  | Ryan | Aug 2021 | NA | 2200 SLP |
+| 013  | Bryle | Aug 2021 | NA | 2200 SLP |
   
 Quota for JKL scholars
 | No  | Name | Joined | 07/31 - 08/18 Quota |
@@ -39,8 +39,8 @@ Quota for JKL scholars
 
 
 ## When is the next scheduled claiming of SLP?
-15 days of gameplay after the last claim date.
-August 15, 2021  
+14 days of gameplay after the last claim date.
+August 29, 2021  
 7:00AM - 8:00AM
   
 For JKL scholars  
