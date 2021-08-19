@@ -51,7 +51,6 @@ August 29, 2021
 For JKL scholars  
 ????? ??, 2021  
 Time: ???  
-Please finish your daily quota before 6PM.
 <!--
 ## Scholars Record
 | Name  | 06 | 07/15  | 07/30  | 08/14  |
