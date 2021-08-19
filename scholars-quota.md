@@ -9,22 +9,22 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | 07/31 - 08/14 Quota | 07/15 - 08/28 Quota |
+| No  | Name | Joined | End OJT | 07/15 - 08/28 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001  | Sheila  | June 2021 | 1800 SLP | 1400 SLP |
-| 002  | Edil | June 2021 | 1800 SLP | 1400 SLP |
-| 003  | Lovely  | July 2021 | 1800 SLP | 1400 SLP |
-| 004  | Lloyd | July 2021 | 1800 SLP | 1400 SLP |
-| 005  | Kitt | July 2021 | 1800 SLP | 1400 SLP |
-| 006  | Tyrone | Aug 2021 | 1800 SLP | 1400 SLP |
-| 007  | Jeric | July 2021 | 1800 SLP | 1400 SLP |
-| 008  | Cedrick | July 2021 | 1800 SLP | 1400 SLP |
-| 009  | Rowel | Aug 2021 | 2250 SLP | 1400 SLP |
-| 010  | Trey | Aug 2021 | 2100 SLP | 1400 SLP |
-| 011  | Pamela | Aug 2021 | NA | 2200 SLP |
-| 012  | Ryan | Aug 2021 | NA | 2200 SLP |
-| 013  | Bryle | Aug 2021 | NA | 2200 SLP |
-| 014  | Andi | Aug 2021 | NA | 1400 SLP |
+| 001  | Sheila  | June 2021 | ENDED | 1400 SLP |
+| 002  | Edil | June 2021 | ENDED | 1400 SLP |
+| 003  | Lovely  | July 2021 | 2021-09-15 | 1400 SLP |
+| 004  | Lloyd | July 2021 | ENDED | 1400 SLP |
+| 005  | Kitt | July 2021 | 2021-09-15 | 1400 SLP |
+| 006  | Tyrone | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 007  | Jeric | July 2021 | ENDED | 1400 SLP |
+| 008  | Cedrick | July 2021 | 2021-09-15 | 1400 SLP |
+| 009  | Rowel | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 010  | Trey | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 011  | Pamela | Aug 2021 | 2021-10-15 | 2200 SLP |
+| 012  | Ryan | Aug 2021 | 2021-10-15 | 2200 SLP |
+| 013  | Bryle | Aug 2021 | 2021-10-15 | 2200 SLP |
+| 014  | Andi | Aug 2021 | 2021-10-15 | 1400 SLP |
   
 Quota for JKL scholars
 | No  | Name | Joined | End OJT | 07/31 - 08/18 Quota |
