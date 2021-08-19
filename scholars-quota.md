@@ -38,11 +38,10 @@ Quota for JKL scholars
 | 08  | Michelle | Aug 2021 | 2021-09-30 | 1800 SLP |
 | 09  | Marinakier | Aug 2021 | 2021-09-30 | 1800 SLP |
 | --  | -- | - | - | - |
-| Anna  | -- | - | - | - |
-| Jayson  | -- | - | - | - |
-| Jayson  | -- | - | - | - |
-| Carmela  | -- | - | - | - |
-| John Raven  | -- | - | - | - |
+| 11  | Anna | - | - | - |
+| 12  | Jayson | - | - | - |
+| 13  | Carmela | - | - | - |
+| 14  | John Raven | - | - | - |
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
