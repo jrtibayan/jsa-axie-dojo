@@ -27,16 +27,16 @@ Please see table below to check your target SLP to be claimed
 | 014  | Andi | Aug 2021 | 2021-10-15 | 1400 SLP |
   
 Quota for JKL scholars
-| No  | Name | Joined | End OJT | 07/31 - 08/18 Quota |
+| No  | Name | Joined | End OJT | Day 1 Aug 19 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 03  | Yvone | Aug 2021 | 2021-09-15 | 2400 SLP |
-| 04  | Kikay | Aug 2021 | 2021-09-30 | 2850 SLP |
-| 05  | Joel | Aug 2021 | 2021-09-30 | 2850 SLP |
-| 06  | Roro | Aug 2021 | 2021-09-30 | 2400 SLP |
-| 07  | KC | Aug 2021 | 2021-09-30 | 2400 SLP |
+| 03  | Yvone | Aug 2021 | 2021-09-15 | - SLP |
+| 04  | Kikay | Aug 2021 | 2021-09-30 | - SLP |
+| 05  | Joel | Aug 2021 | 2021-09-30 | - SLP |
+| 06  | Roro | Aug 2021 | 2021-09-30 | - SLP |
+| 07  | KC | Aug 2021 | 2021-09-30 | - SLP |
 | --  | Scholars below day 1 Aug 4 | - | - | - |
-| 08  | Michelle | Aug 2021 | 2021-09-30 | 1800 SLP |
-| 09  | Marinakier | Aug 2021 | 2021-09-30 | 1800 SLP |
+| 08  | Michelle | Aug 2021 | 2021-09-30 | - SLP |
+| 09  | Marinakier | Aug 2021 | 2021-09-30 | - SLP |
 | --  | -- | - | - | - |
 | 11  | Anna | - | - | - |
 | 12  | Jayson | - | - | - |
