@@ -27,22 +27,22 @@ Please see table below to check your target SLP to be claimed
 | 014  | Andi | Aug 2021 | NA | 1400 SLP |
   
 Quota for JKL scholars
-| No  | Name | Joined | 07/31 - 08/18 Quota |
-| ------------- | ------------- | ------------- | ------------- |
-| 03  | Yvone | Aug 2021 | 2400 SLP |
-| 04  | Kikay | Aug 2021 | 2850 SLP |
-| 05  | Joel | Aug 2021 | 2850 SLP |
-| 06  | Roro | Aug 2021 | 2400 SLP |
-| 07  | KC | Aug 2021 | 2400 SLP |
-| --  | Scholars below day 1 Aug 4 | - | - |
-| 08  | Michelle | Aug 2021 | 1800 SLP |
-| 09  | Marinakier | Aug 2021 | 1800 SLP |
-| --  | -- | - | - |
-| Anna  | -- | - | - |
-| Jayson  | -- | - | - |
-| Jayson  | -- | - | - |
-| Carmela  | -- | - | - |
-| John Raven  | -- | - | - |
+| No  | Name | Joined | End OJT | 07/31 - 08/18 Quota |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 03  | Yvone | Aug 2021 | 2021-09-15 | 2400 SLP |
+| 04  | Kikay | Aug 2021 | 2021-09-30 | 2850 SLP |
+| 05  | Joel | Aug 2021 | 2021-09-30 | 2850 SLP |
+| 06  | Roro | Aug 2021 | 2021-09-30 | 2400 SLP |
+| 07  | KC | Aug 2021 | 2021-09-30 | 2400 SLP |
+| --  | Scholars below day 1 Aug 4 | - | - | - |
+| 08  | Michelle | Aug 2021 | 2021-09-30 | 1800 SLP |
+| 09  | Marinakier | Aug 2021 | 2021-09-30 | 1800 SLP |
+| --  | -- | - | - | - |
+| Anna  | -- | - | - | - |
+| Jayson  | -- | - | - | - |
+| Jayson  | -- | - | - | - |
+| Carmela  | -- | - | - | - |
+| John Raven  | -- | - | - | - |
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
