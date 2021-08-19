@@ -49,7 +49,7 @@ August 29, 2021
 7:00AM - 8:00AM
   
 For JKL scholars  
-August 13, 2021  
+????? ??, 2021  
 Time: ???  
 Please finish your daily quota before 6PM.
 <!--
