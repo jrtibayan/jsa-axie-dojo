@@ -32,25 +32,23 @@ Please see table below to check your target SLP to be claimed
 Quota for JKL scholars
 | No  | Name | Joined | End OJT | Day 1 Sept 2 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 03  | Yvone | Aug 2021 | 2021-09-15 | - SLP |
-| 04  | Kikay | Aug 2021 | 2021-09-30 | - SLP |
-| 05  | Joel | Aug 2021 | 2021-09-30 | - SLP |
-| 06  | Roro | Aug 2021 | 2021-09-30 | - SLP |
-| 07  | KC | Aug 2021 | 2021-09-30 | - SLP |
-| --  | Scholars below day 1 Aug 4 | - | - | - |
-| 08  | Michelle | Aug 2021 | 2021-09-30 | - SLP |
-| 09  | Marinakier | Aug 2021 | 2021-09-30 | - SLP |
-| --  | -- | - | - | - |
-| 11  | Anna | - | - | +4 days |
+| 03  | Yvone | Aug 2021 | 2021-09-15 | 1400 SLP |
+| 04  | Kikay | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 05  | Joel | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 06  | Roro | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 07  | KC | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 08  | Michelle | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 09  | Marinakier | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 11  | Anna | - | - | 1800 SLP |
 | 12  | Jayson | - | - | - |
-| 13  | Carmela | - | - | +4 days |
-| 14  | Carly | - | - | +4 days |
-| 15  | Zeny | - | - | +2 days |
-| 16  | Randel | - | - | +2 days |
-| 17  | Romaleen | - | - | +0 days |
-| 18  | Jay Ar | - | - | +2 days |
-| 19  | Raven | - | - | +2 days |
-| 20  | Andrei | - | - | +2 days |
+| 13  | Carmela | - | - | 1800 SLP |
+| 14  | Carly | - | - | 1800 SLP |
+| 15  | Zeny | - | - | 1425 SLP |
+| 16  | Randel | - | - | 1425 SLP |
+| 17  | Romaleen | - | - | 1225 SLP |
+| 18  | Jay Ar | - | - | 1425 SLP |
+| 19  | Raven | - | - | 1425 SLP |
+| 20  | Andrei | - | - | 1425 SLP |
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
