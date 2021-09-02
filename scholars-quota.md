@@ -41,10 +41,10 @@ Quota for JKL scholars
 | 08  | Michelle | Aug 2021 | 2021-09-30 | - SLP |
 | 09  | Marinakier | Aug 2021 | 2021-09-30 | - SLP |
 | --  | -- | - | - | - |
-| 11  | Anna | - | - | - |
+| 11  | Anna | - | - | +4 days |
 | 12  | Jayson | - | - | - |
-| 13  | Carmela | - | - | - |
-| 14  | Carly | - | - | - |
+| 13  | Carmela | - | - | +4 days |
+| 14  | Carly | - | - | +4 days |
 | 15  | Zeny | - | - | +2 days |
 | 16  | Randel | - | - | +2 days |
 | 17  | ? | - | - | - |
