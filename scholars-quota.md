@@ -40,12 +40,12 @@ Quota for JKL scholars
 | 08  | Michelle | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 09  | Marinakier | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 11  | Anna | - | - | 1800 SLP |
-| 12  | Jayson | - | - | - |
+| 12  | Aina | - | - | 1680 SLP |
 | 13  | Carmela | - | - | 1800 SLP |
 | 14  | Carly | - | - | 1800 SLP |
 | 15  | Zeny | - | - | 1425 SLP |
 | 16  | Randel | - | - | 1425 SLP |
-| 17  | Romaleen | - | - | 1225 SLP |
+| 17  | Joan | - | - | 1225 SLP |
 | 18  | Jay Ar | - | - | 1425 SLP |
 | 19  | Raven | - | - | 1425 SLP |
 | 20  | Andrei | - | - | 1425 SLP |
