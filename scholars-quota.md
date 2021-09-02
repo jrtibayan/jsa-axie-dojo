@@ -5,11 +5,11 @@
 ## Scholars Quota
 Good day scholars. Each scholar started on different day so for now we will be giving each scholar a different target SLP to be claimed by each scholar on the given claiming date. This target is computed as shown below.  
   
-Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starting date to end date] )  
+Scholar Target SLP = [Current SLP to be Claimed] + ( 100 SLP x [Days from starting date to end date] )  
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | End OJT | 08/29 - 09/12 Quota |
+| No  | Name | Joined | End OJT | 08/29 - 09/11 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 001  | Sheila  | June 2021 | ENDED | 1400 SLP |
 | 002  | Edil | June 2021 | ENDED | 1400 SLP |
@@ -30,7 +30,7 @@ Please see table below to check your target SLP to be claimed
 | 017  | Joven | Sept 2021 | 2021-10-30 | 1600 SLP |
   
 Quota for JKL scholars
-| No  | Name | Joined | End OJT | Day 1 Sept 2 Quota |
+| No  | Name | Joined | End OJT | 09/02 - 09/15 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 03  | Yvone | Aug 2021 | 2021-09-15 | 1400 SLP |
 | 04  | Kikay | Aug 2021 | 2021-09-30 | 1400 SLP |
@@ -52,12 +52,12 @@ Quota for JKL scholars
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
-August 29, 2021  
+September 12, 2021  
 7:00AM - 8:00AM
   
 For JKL scholars  
-????? ??, 2021  
-Time: ???  
+September 16, 2021  
+7:00AM - 8:00AM
 <!--
 ## Scholars Record
 | Name  | 06 | 07/15  | 07/30  | 08/14  |
