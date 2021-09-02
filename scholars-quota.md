@@ -30,7 +30,7 @@ Please see table below to check your target SLP to be claimed
 | 017  | Joven | Sept 2021 | 2021-10-30 | +2days |
   
 Quota for JKL scholars
-| No  | Name | Joined | End OJT | Day 1 Aug 19 Quota |
+| No  | Name | Joined | End OJT | Day 1 Sept 2 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 03  | Yvone | Aug 2021 | 2021-09-15 | - SLP |
 | 04  | Kikay | Aug 2021 | 2021-09-30 | - SLP |
