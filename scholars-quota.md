@@ -45,12 +45,12 @@ Quota for JKL scholars
 | 12  | Jayson | - | - | - |
 | 13  | Carmela | - | - | - |
 | 14  | Carly | - | - | - |
-| 15  | Zeny | - | - | - |
-| 16  | Randel | - | - | - |
+| 15  | Zeny | - | - | +2 days |
+| 16  | Randel | - | - | +2 days |
 | 17  | ? | - | - | - |
-| 18  | Jay Ar | - | - | - |
-| 19  | Raven | - | - | - |
-| 20  | Andrei | - | - | - |
+| 18  | Jay Ar | - | - | +2 days |
+| 19  | Raven | - | - | +2 days |
+| 20  | Andrei | - | - | +2 days |
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
