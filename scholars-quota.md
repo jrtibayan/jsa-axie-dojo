@@ -9,7 +9,7 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 150 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | End OJT | 07/15 - 08/28 Quota |
+| No  | Name | Joined | End OJT | 08/29 - 09/12 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 001  | Sheila  | June 2021 | ENDED | 1400 SLP |
 | 002  | Edil | June 2021 | ENDED | 1400 SLP |
@@ -21,13 +21,13 @@ Please see table below to check your target SLP to be claimed
 | 008  | Cedrick | July 2021 | 2021-09-15 | 1400 SLP |
 | 009  | Rowel | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 010  | Trey | Aug 2021 | 2021-09-30 | 1400 SLP |
-| 011  | Pamela | Aug 2021 | 2021-10-15 | 2200 SLP |
-| 012  | Ryan | Aug 2021 | 2021-10-15 | 2200 SLP |
-| 013  | Bryle | Aug 2021 | 2021-10-15 | 2200 SLP |
+| 011  | Pamela | Aug 2021 | 2021-10-15 | 1400 SLP |
+| 012  | Ryan | Aug 2021 | 2021-10-15 | 1400 SLP |
+| 013  | Bryle | Aug 2021 | 2021-10-15 | 1400 SLP |
 | 014  | Andi | Aug 2021 | 2021-10-15 | 1400 SLP |
-| 015  | Janneth | Sept 2021 | 2021-10-30 | +8days |
-| 016  | Al | Sept 2021 | 2021-10-30 | +2days |
-| 017  | Joven | Sept 2021 | 2021-10-30 | +2days |
+| 015  | Janneth | Sept 2021 | 2021-10-30 | 2200 SLP |
+| 016  | Al | Sept 2021 | 2021-10-30 | 1600 SLP |
+| 017  | Joven | Sept 2021 | 2021-10-30 | 1600 SLP |
   
 Quota for JKL scholars
 | No  | Name | Joined | End OJT | Day 1 Sept 2 Quota |
