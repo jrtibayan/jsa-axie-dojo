@@ -47,7 +47,7 @@ Quota for JKL scholars
 | 14  | Carly | - | - | +4 days |
 | 15  | Zeny | - | - | +2 days |
 | 16  | Randel | - | - | +2 days |
-| 17  | ? | - | - | - |
+| 17  | Romaleen | - | - | +0 days |
 | 18  | Jay Ar | - | - | +2 days |
 | 19  | Raven | - | - | +2 days |
 | 20  | Andrei | - | - | +2 days |
