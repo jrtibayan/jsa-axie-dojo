@@ -28,6 +28,8 @@ Please see table below to check your target SLP to be claimed
 | 015  | Janneth | Sept 2021 | 2021-10-30 | 2200 SLP |
 | 016  | Al | Sept 2021 | 2021-10-30 | 1600 SLP |
 | 017  | Joven | Sept 2021 | 2021-10-30 | 1600 SLP |
+| 018  | Sean | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
+| 019  | Miggy | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
   
 Quota for JKL scholars
 | No  | Name | Joined | End OJT | 09/02 - 09/15 Quota |
