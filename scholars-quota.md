@@ -9,27 +9,28 @@ Scholar Target SLP = [Current SLP to be Claimed] + ( 100 SLP x [Days from starti
   
 Please see table below to check your target SLP to be claimed
 
-| No  | Name | Joined | End OJT | 08/29 - 09/11 Quota |
+| No  | Name | Joined | End OJT | 09/12 - 09/25 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001  | Sheila  | June 2021 | ENDED | 1400 SLP |
-| 002  | Edil | June 2021 | ENDED | 1400 SLP |
-| 003  | Lovely  | July 2021 | 2021-09-15 | 1400 SLP |
-| 004  | Lloyd | July 2021 | ENDED | 1400 SLP |
-| 005  | Kitt | July 2021 | 2021-09-15 | 1400 SLP |
+| 001  | Sheila  | June 2021 | Regular | 1400 SLP |
+| 002  | Edil | June 2021 | Regular | 1400 SLP |
+| 003  | Lovely  | July 2021 | Regular | 1400 SLP |
+| 004  | Lloyd | July 2021 | Regular | 1400 SLP |
+| 005  | Kitt | July 2021 | Regular | 1400 SLP |
 | 006  | Tyrone | Aug 2021 | 2021-09-30 | 1400 SLP |
-| 007  | Jeric | July 2021 | ENDED | 1400 SLP |
-| 008  | Cedrick | July 2021 | 2021-09-15 | 1400 SLP |
+| 007  | Jeric | July 2021 | Regular | 1400 SLP |
+| 008  | Cedrick | July 2021 | Regular | 1400 SLP |
 | 009  | Rowel | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 010  | Trey | Aug 2021 | 2021-09-30 | 1400 SLP |
-| 011  | Pamela | Aug 2021 | 2021-10-15 | 1400 SLP |
+| 011  | Paps (NEW) | Sept 2021 | 2021-11-15 | 1225 SLP |
 | 012  | Ryan | Aug 2021 | 2021-10-15 | 1400 SLP |
 | 013  | Bryle | Aug 2021 | 2021-10-15 | 1400 SLP |
-| 014  | Andi | Aug 2021 | 2021-10-15 | 1400 SLP |
-| 015  | Janneth | Sept 2021 | 2021-10-30 | 2200 SLP |
-| 016  | Al | Sept 2021 | 2021-10-30 | 1600 SLP |
-| 017  | Joven | Sept 2021 | 2021-10-30 | 1600 SLP |
-| 018  | Sean | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
-| 019  | Miggy | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
+| 014  | Owen (NEW) | Sept 2021 | 2021-11-15 | 1400 SLP |
+| 015  | Janneth | Sept 2021 | 2021-10-30 | 1400 SLP |
+| 016  | Al | Sept 2021 | 2021-10-30 | 1400 SLP |
+| 017  | Joven | Sept 2021 | 2021-10-30 | 1400 SLP |
+| 018  | Sean | Sept 2021 | 2021-11-15 | 2100 SLP |
+| 019  | Miggy | Sept 2021 | 2021-11-15 | 2100 SLP |
+| 020  | Abe | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
   
 Quota for JKL scholars
 | No  | Name | Joined | End OJT | 09/02 - 09/15 Quota |
@@ -54,7 +55,7 @@ Quota for JKL scholars
 
 ## When is the next scheduled claiming of SLP?
 14 days of gameplay after the last claim date.
-September 12, 2021  
+September 26, 2021  
 7:00AM - 8:00AM
   
 For JKL scholars  
