@@ -33,34 +33,35 @@ Please see table below to check your target SLP to be claimed
 | 020  | Abe | Sept 2021 | 2021-11-15 | Day 1 Sept 5 |
   
 Quota for JKL scholars
-| No  | Name | Joined | End OJT | 09/02 - 09/15 Quota |
+| No  | Name | Joined | End OJT | 09/16 - 09/29 Quota |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 03  | Yvone | Aug 2021 | 2021-09-15 | 1400 SLP |
-| 04  | Kikay | Aug 2021 | 2021-09-30 | 1400 SLP |
+| 03  | Yvone | Aug 2021 | Regular | 1400 SLP |
+| 04  | Amy (NEW) | Aug 2021 | 2021-11-15 | 1075 SLP |
 | 05  | Joel | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 06  | Roro | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 07  | KC | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 08  | Michelle | Aug 2021 | 2021-09-30 | 1400 SLP |
 | 09  | Marinakier | Aug 2021 | 2021-09-30 | 1400 SLP |
-| 11  | Anna | - | - | 1800 SLP |
-| 12  | Aina | - | - | 1680 SLP |
-| 13  | Carmela | - | - | 1800 SLP |
-| 14  | Carly | - | - | 1800 SLP |
-| 15  | Zeny | - | - | 1425 SLP |
-| 16  | Randel | - | - | 1425 SLP |
-| 17  | Joan | - | - | 1225 SLP |
-| 18  | Jay Ar | - | - | 1425 SLP |
-| 19  | Raven | - | - | 1425 SLP |
-| 20  | Andrei | - | - | 1425 SLP |
+| 11  | Anna | - | - | 1400 SLP |
+| 12  | Aina | - | - | 1400 SLP |
+| 13  | Carmela | - | - | 1400 SLP |
+| 14  | Carly | - | - | 1400 SLP |
+| 15  | Zeny | - | - | 1400 SLP |
+| 16  | Randel | - | - | 1400 SLP |
+| 17  | Joan | - | - | 1400 SLP |
+| 18  | Jay Ar | - | - | 1400 SLP |
+| 19  | Raven | - | - | 1400 SLP |
+| 20  | Andrei | - | - | 1400 SLP |
 
 ## When is the next scheduled claiming of SLP?
-14 days of gameplay after the last claim date.
+14 days of gameplay after the last claim date.  
 September 26, 2021  
 7:00AM - 8:00AM
   
 For JKL scholars  
-September 16, 2021  
-7:00AM - 8:00AM
+14 days of gameplay after the last claim date.  
+September 30, 2021  
+6:30AM - 8:00AM
 <!--
 ## Scholars Record
 | Name  | 06 | 07/15  | 07/30  | 08/14  |
