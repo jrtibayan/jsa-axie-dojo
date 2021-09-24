@@ -50,3 +50,7 @@ Activities games ml and roblox
 nakikilaro kna KC  
 c/o KC  
   
+Name: John Rey L. Yebra  
+Age: 21 (turning 22 next month)  
+Games played: ML, Coc, Valorant, Dota 2, Dota 1,  
+  
