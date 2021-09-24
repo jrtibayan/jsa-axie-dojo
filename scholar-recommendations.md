@@ -13,15 +13,6 @@ Contact #:09090018520
 Games:ML/ COD/tongits go.  
 c/o Abe  
   
-Charles Allen Ortiz,
-16 years old  
-ML player  
-Hobby online games  
-Active online  
-May kaunting alam na po sa axie  
-Kapatid ng scholar kaya may mag gguide  
-c/o Trey  
-  
 Justine Felismino  
 29 yrs old  
 Mobile legend  
