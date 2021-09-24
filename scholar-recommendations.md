@@ -46,3 +46,7 @@ Age: 21 (turning 22 next month)
 Games played: ML, Coc, Valorant, Dota 2, Dota 1,  
 c/o Raven
   
+Name: Reymond L. Yebra  
+Age: 30  
+Games Played: MU, Ran, Ml, Coc, Royale Clash, CS: Go  
+  
