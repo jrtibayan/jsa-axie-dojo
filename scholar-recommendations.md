@@ -23,12 +23,6 @@ Mary Rose Moreno
 mobile legend,Cod  
 c/o kitkit  
   
-•Name : Daryl Batifora  
-•Age : 24  
-•Gender : Male  
-•Games : COC, Chess, Pokemon Go, Ran Online PH, Rakion, SF, Point Blank, LoL, CODm, Special Force, ML, Dota 1&2, Summoner's War, Etc  
-c/o Roro  
-  
 Maveric cabatic  
 Male 17yrs old  
 Activities games ml roblox  
