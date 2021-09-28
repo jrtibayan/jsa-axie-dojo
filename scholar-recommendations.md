@@ -23,17 +23,6 @@ Mary Rose Moreno
 mobile legend,Cod  
 c/o kitkit  
   
-Maveric cabatic  
-Male 17yrs old  
-Activities games ml roblox  
-nakikilaro kna KC  
-c/o KC  
-  
-Aron rene marquez  
-20 yrs old  
-Activities games ml and roblox  
-nakikilaro kna KC  
-c/o KC  
   
 Name: John Rey L. Yebra  
 Age: 21 (turning 22 next month)  
