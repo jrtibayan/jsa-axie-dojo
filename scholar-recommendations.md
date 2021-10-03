@@ -1,10 +1,6 @@
 # JSA Axie Dojo Scholar Recommendations
 
-
-Renren Calangi  
-21 y/o  
-c/o Anna  
-  
+ 
 Jomer H Adloa  
 30yrs old 
 Date of birth 09/09/1991  
@@ -12,22 +8,26 @@ San Isidro ibaba lemry Batangas
 Contact #:09090018520  
 Games:ML/ COD/tongits go.  
 c/o Abe  
+
+Nico  
+27y/0  
+Ml & cod  
+c/o Anna  
   
-Justine Felismino  
-29 yrs old  
-Mobile legend  
-c/o Kitkit  
+Dondon  
+31 y/40  
+Ml & cod  
+c/o Anna  
   
-Mary Rose Moreno  
-19yrs old  
-mobile legend,Cod  
-c/o kitkit  
+John Paul Atienza  
+22 y/0  
+Ml  
+c/o Anna  
   
-  
-Name: John Rey L. Yebra  
-Age: 21 (turning 22 next month)  
-Games played: ML, Coc, Valorant, Dota 2, Dota 1,  
-c/o Raven
+Paps De Castro  
+30 y/0  
+Ml & cos  
+c/o Anna  
   
 Name: Reymond L. Yebra  
 Age: 30  
