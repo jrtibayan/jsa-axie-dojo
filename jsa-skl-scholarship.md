@@ -9,4 +9,13 @@ Basahin ang requirements at sundin lang ang mga instructions sa ibaba.
 
 4. May alam na kung ano ang mga bawal upang hindi maban ang isang scholar.  
   
-5. 
+## Paano sumali  
+1. Aralin ang mga nasa itaas  
+  
+2. Sabihin sa inyong kakilala na handa ka na upang maisubmit nya ang pangalan o fb profile mo upang makapag schedule ng interview  
+  
+3. Sa interview iexplain ang pagkakaunawa sa mga required info sa itaas  
+  
+4. Bilangin ng tama ang energy ng kalaban sa video na ipapakita sa interview
+
+5. Kapag pasado na sa interview maisasama na ikaw sa list ng mga susunod na pipiliin as scholar, maghihintay na lang ng team na para sa inyo.
