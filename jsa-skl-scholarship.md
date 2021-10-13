@@ -18,4 +18,4 @@ Basahin ang requirements at sundin lang ang mga instructions sa ibaba.
   
 4. Bilangin ng tama ang energy ng kalaban sa video na ipapakita sa interview
 
-5. Kapag pasado na sa interview maisasama na ikaw sa list ng mga susunod na pipiliin as scholar, maghihintay na lang ng team na para sa inyo.
+5. Kapag pasado na sa interview maisasama na ikaw sa list ng mga susunod na pipiliin as scholar, maghihintay na lang ng team na para sayo.
